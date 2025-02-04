@@ -1,0 +1,10 @@
+[package]
+name = "detect_ranges"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+rstest = ">= 0.24.0"
+rstest_reuse = ">= 0.7.0"
